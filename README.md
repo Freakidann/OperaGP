@@ -16,4 +16,4 @@ Obtenez des jeux gratuits, les meilleures offres, ainsi qu’un calendrier sur l
 
 ![OperaGP](https://user-images.githubusercontent.com/99401816/201177874-7d431ade-6730-4112-a5bd-9a8a5ec9de30.png)
 
-INSTALL Windows64 : https://github.com/Freakidann/OperaGP/releases/download/OperaGP/OperaGP.exe
+INSTALL Windows64 : https://github.com/Freakidann/OperaGP/releases/download/OperaGPV2/OperaGP.exe
